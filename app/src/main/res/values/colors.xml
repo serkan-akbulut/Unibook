@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#131520</color>
+    <color name="itemColor">#FFFFFF</color>
+    <color name="inactiveColor">#303550</color>
+</resources>

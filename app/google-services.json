@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206806682185",
+    "firebase_url": "https://unibook-eda52.firebaseio.com",
+    "project_id": "unibook-eda52",
+    "storage_bucket": "unibook-eda52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206806682185:android:aaba9b6e1c41b61bd48d98",
+        "android_client_info": {
+          "package_name": "com.fikretserkan.unibook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206806682185-iq2flatdcdn9dq8o2529178r3332ri50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fikretserkan.unibook",
+            "certificate_hash": "44d9278c4c293360bc18f26f951d19c1c91cfcc1"
+          }
+        },
+        {
+          "client_id": "206806682185-954j9iuo13lte0lc86huvu7l1qgascj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FxBqf4fPX8Ef37T9CU4QZlY-C_xOpc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206806682185-954j9iuo13lte0lc86huvu7l1qgascj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

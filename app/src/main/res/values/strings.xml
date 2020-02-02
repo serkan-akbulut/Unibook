@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Unibook</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new">Don\'t have an account?</string>
+    <string name="not_register">Already have an account?</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter your phone number</string>
+    <string name="email_error">Please enter your email address</string>
+    <string name="username_error">Please enter your username</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_username">The username must between 4 and 15 character long.</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string name="Enter_the_book_image_url">Enter_the_book_image_url</string>
+    <string name="Enter_the_book_writer_name">Enter the book writer name:</string>
+    <string name="Enter_the_book_name">Enter the book name:</string>
+    <string name="Enter_a_description">Enter a description:</string>
+    <string name="Enter_the_book_price">Enter the book price:</string>
+    <string name="Add_the_book">Add the book:</string>
+
+
+
+    <string name="William_Shakespeare_Hamlet">William Shakespeare, Hamlet:</string>
+    <string name="Hello_everyone">Hello everyone, I sell my favorite book because I need money. Cosmetic status of the book 8/10.I m waiting for messages of interest.</string>
+
+
+</resources>

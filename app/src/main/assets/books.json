@@ -1,0 +1,11 @@
+{ 
+    "books": [
+		{
+			"name": "Hamlet",
+			"writer": "William Shakespeare",
+			"price": "100",
+			"details": "Hello everyone, I sell my favorite book because I need money. Cosmetic status of the book 8/10. I'm waiting for messages of interest.",
+			"url":"https://booksreviewerorg.files.wordpress.com/2017/09/hamlet-front-cover-source.jpg"
+		}
+    ]
+}
